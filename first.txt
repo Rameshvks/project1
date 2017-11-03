@@ -1,3 +1,6 @@
 This is my first source file
 Added Greg balthazor
 Added Kris Kuhn
+Add 1
+Add 2
+Add 3
